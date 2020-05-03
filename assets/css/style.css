@@ -1,13 +1,13 @@
 .colorStyle {
-  color: #66c379;
+  color: #636363;
 }
 
-.bold {
+/* .bold {
   font-weight: bold;
-}
+} */
 
 input[type="submit"] {
-  background-color: #66c379 !important;
+  background-color: #05668d !important;
   color: white !important;
   font-weight: 900;
   cursor: pointer;
