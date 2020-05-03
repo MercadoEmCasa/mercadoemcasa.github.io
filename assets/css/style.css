@@ -5,3 +5,14 @@
 .bold {
   font-weight: bold;
 }
+
+input[type="submit"] {
+  background-color: #66c379 !important;
+  color: white !important;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+input[value="Enviar"] {
+  color: aqua !important;
+}
